@@ -26,7 +26,7 @@ ul li {
 .main{
   padding: 1em;
   height: 100vh;
-  background: linear-gradient(to bottom, rgb(0 0 0 / .25),rgb(0 0 0 / .25)), url("fondo.jpg");
+  background: linear-gradient(to bottom, rgb(0 0 0 / .25),rgb(0 0 0 / .25)), url("[![fondo.jpg](https://i.postimg.cc/d10s0xDx/fondo.jpg)](https://postimg.cc/4KrkLw66)");
 
 background-position: center center;
 background-size:cover;
